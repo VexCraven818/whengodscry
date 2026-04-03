@@ -1,0 +1,30 @@
+Need
+1 static sex scene
+local map
+tutorial scene
+2 outskirts areas (forest, beach)
+3 towns (tutorial town, first city, first refugee camp)
+2 non human races (catgirls, elves)
+basic rpgmaker combat
+4 supporting characters
+1 path to dominance (power)
+10 npcs
+
+
+
+Want
+combat animations
+multiple branching paths
+many supporting characters
+a bunch of npcs per town
+town dominance
+country dominance
+world dominance
+escape rooms
+evolving combat (see combat_progression)
+animated sex scenes
+as many races as possible
+2 layers of map (local,world)
+3 paths to dominance (power, money, influence)
+4th path = sum of all 3 (faith)
+
