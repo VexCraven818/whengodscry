@@ -9,7 +9,7 @@ basic rpgmaker combat
 4 supporting characters
 1 path to dominance (power)
 10 npcs
-
+1 story path (harem ending)
 
 
 Want
@@ -27,4 +27,4 @@ as many races as possible
 2 layers of map (local,world)
 3 paths to dominance (power, money, influence)
 4th path = sum of all 3 (faith)
-
+a different story path for each love interest 
